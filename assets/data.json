@@ -1,0 +1,12 @@
+{
+    "users": [
+        {"id": 1, "name": "Alice", "role": "Admin"},
+        {"id": 2, "name": "Bob", "role": "User"},
+        {"id": 3, "name": "Charlie", "role": "Moderator"}
+    ],
+    "sales": [
+        {"month": "Jan", "amount": 5000},
+        {"month": "Feb", "amount": 7000},
+        {"month": "Mar", "amount": 4000}
+    ]
+}
