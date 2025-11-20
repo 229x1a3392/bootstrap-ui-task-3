@@ -1,10 +1,10 @@
-#🌐 **Customized Mazer Dashboard**  
+#🌐 Customized Mazer Dashboard
 This project is a responsive admin dashboard built using **Bootstrap 5** as part of my internship **Task 3 – Front-End Skill Assessment**.  
 It showcases modern UI/UX design with clean layouts and includes dynamic components populated from a `data.json` file, along with interactive charts.  
 
 ---
 
-##🛠️ **Technologies Used**  
+##🛠️ Technologies Used
 - HTML5  
 - CSS3  
 - Bootstrap 5  
@@ -13,7 +13,7 @@ It showcases modern UI/UX design with clean layouts and includes dynamic compone
 
 ---
 
-##📄 **Pages / Components Included**  
+##📄 Pages / Components Included 
 - **Dashboard Page** – Navbar, Sidebar, and Info Cards  
 - **User Table** – Dynamically populated from `data.json`  
 - **Sales Chart** – Monthly sales bar chart using Chart.js  
@@ -21,12 +21,12 @@ It showcases modern UI/UX design with clean layouts and includes dynamic compone
 
 ---
 
-##🌍 **Live Demo**  
+##🌍 Live Demo  
 🔗 **GitHub Repository:** https://github.com/229x1a3392/mazer-custom-dashboard  
 🌐 **Live Website:** https://229x1a3392.github.io/mazer-custom-dashboard/  
 
 ---
 
-##👩‍💻 **Author**  
+##👩‍💻 Author 
 **S. Jahnavi**  
 📧 Email: 229x1a3392@gmail.com
